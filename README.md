@@ -3,7 +3,7 @@ A messaging system, written in C for unix-like systems. Divided into two agnosti
 
 ## Sample Run
 ```
-./server 1111
+./server 1111 &
 ./client ipv4 localhost 1111
 -- Copyright (C) 2010 Mounir Orfi <mounir.orfi@gmail.com>
 -- Welcome to SMC version 0.1
